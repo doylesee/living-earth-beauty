@@ -221,6 +221,9 @@ $(document).ready(function(){
 });
 
 $(window).load(function() {
+	$('#pre-loaders').fadeOut();
+	$('#page-content').fadeIn();
+	
 	// Main Menu: Submenu - set position for Submenu arrow
 	var arrow_margin_left = 0;
 	$('#main-menu__list-js li:has(.main-menu__submenu-arrow)').each(function() {

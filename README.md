@@ -5,7 +5,7 @@
 <b>Timeline:</b>     3 Weeks, but completed in 1 Week
 <b>Tools:</b>        HTML, CSS, JS, Foundation
 </pre>
-<strong><a href="https://doylesee.github.io/living-earth-beauty/">View project</a></strong>
+&nbsp;<strong><a href="https://doylesee.github.io/living-earth-beauty/">View project</a></strong>
 
 <br /><h2>The Challenge</h2>
 The objective was to take a set of static, high-fidelity mockups from a UI/UX designer and convert them into a fully functional, responsive, and cross-browser-compatible frontend prototype.<br />

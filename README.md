@@ -49,3 +49,5 @@ Achieved a pixel-perfect translation of the design, satisfying both the designer
 
 <strong>Frictionless Developer Handoff:</strong><br />
 The backend developer was able to integrate the static assets into the CMS rapidly, thanks to the modular, dynamic-ready structure of the code, drastically reducing total time-to-market.
+
+<p><strong><a href="https://doylesee.github.io/living-earth-beauty/">View project</a></strong></p>

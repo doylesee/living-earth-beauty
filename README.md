@@ -1,5 +1,3 @@
-<p><img src="https://64.media.tumblr.com/f570433854601ab02c0f2bb8ef825011/tumblr_nwv5i92KII1uixfpmo1_r1_1280.jpg" alt="Living Earth Beauty" /></p>
-
 <h2>Project Overview</h2>
 <pre>
 <b>Project Name:</b> Living Earth Beauty Website
@@ -9,6 +7,8 @@
 </pre>
 
 <p>&nbsp;<strong><a href="https://doylesee.github.io/living-earth-beauty/">View project</a></strong></p>
+
+<p><img src="https://64.media.tumblr.com/f570433854601ab02c0f2bb8ef825011/tumblr_nwv5i92KII1uixfpmo1_r1_1280.jpg" alt="Living Earth Beauty" /></p>
 
 <br /><h2>The Challenge</h2>
 The objective was to take a set of static, high-fidelity mockups from a UI/UX designer and convert them into a fully functional, responsive, and cross-browser-compatible frontend prototype.<br />

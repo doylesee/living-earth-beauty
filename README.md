@@ -3,7 +3,7 @@
 <b>Project Name:</b> Living Earth Beauty Website
 <b>Role:</b>         Frontend Web Developer
 <b>Timeline:</b>     3 Weeks, but completed in 1 Week
-<b>Tools:</b>        HTML, CSS, JS, Foundation
+<b>Tools:</b>        Photoshop, HTML, CSS, JS, Foundation
 </pre>
 
 <p>&nbsp;<strong><a href="https://doylesee.github.io/living-earth-beauty/" rel="noopener noreferrer">View project</a></strong></p>
